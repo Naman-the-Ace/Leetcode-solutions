@@ -729,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0815-bus-routes) |
+| [0835-image-overlap](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0860-lemonade-change) |
@@ -1055,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
