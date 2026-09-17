@@ -1,36 +1,12 @@
 class ParkingSystem {
 public:
-int c1,c2,c3;
+    vector<int> count;
     ParkingSystem(int big, int medium, int small) {
-        c1=big;
-        c2=medium;
-        c3=small;
+        count = {big, medium, small};
     }
-    
-    bool addCar(int carType) {
-        if(carType==1){
-            if(c1>0){
-                c1--;
-                return true;
-            }
-            else return false;
-        }
-        if(carType==2){
-            if(c2>0){
-                c2--;
-                return true;
-            }
-            else return false;
-        }
-        if(carType==3){
-            if(c3>0){
-                c3--;
-                return true;
-            }
-            else return false;
-        }
-        return false;
 
+    bool addCar(int carType) {
+        return count[carType - 1]-- > 0;
     }
 };
 
