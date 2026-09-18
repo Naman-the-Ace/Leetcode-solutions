@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-destination-city](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1871-jump-game-vii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -1103,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
