@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -1130,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -1319,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Segment Tree
 |  |
