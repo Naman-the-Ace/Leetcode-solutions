@@ -1,24 +1,24 @@
 class Solution {
 public:
-    int minInsertions(string s) {
-        int n = s.size();
+int n;
+int t[501][501];
+    int solve(string &s,int l, int r){
+        if(t[l][r]!=-1) return t[l][r];
+       if(l>=r) return 0;
 
-        vector<vector<int>> dp(n, vector<int>(n, 0));
+       else if(s[l]==s[r]){
+        return t[l][r]= solve(s,l+1,r-1);
+       }
+       
+        return t[l][r]= 1+min(solve(s,l,r-1),solve(s,l+1,r));
+       
+   // return 0;
+    }
+    int minInsertions(string s) {  
 
-        for(int l = 2; l <= n; l++) {
-            for(int i = 0; i + l - 1 < n; i++) {
-
-                int j = i + l - 1;
-
-                if(s[i] == s[j]) {
-                    dp[i][j] = (l == 2) ? 0 : dp[i+1][j-1];
-                }
-                else {
-                    dp[i][j] = 1 + min(dp[i+1][j], dp[i][j-1]);
-                }
-            }
-        }
-
-        return dp[0][n-1];
+        n=s.length();
+        memset(t,-1,sizeof(t));
+        return solve(s,0,n-1);
+        
     }
 };
