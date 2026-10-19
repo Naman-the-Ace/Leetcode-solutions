@@ -721,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0396-rotate-function) |
+| [0407-trapping-rain-water-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -903,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1088,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0733-flood-fill) |
@@ -1189,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
