@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2376-count-special-integers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2376-count-special-integers) |
+| [2409-count-days-spent-together](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2544-alternating-digit-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 | [2719-count-of-integers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2719-count-of-integers) |
 | [2963-count-the-number-of-good-partitions](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2963-count-the-number-of-good-partitions) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2409-count-days-spent-together](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2719-count-of-integers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2719-count-of-integers) |
