@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
@@ -951,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
