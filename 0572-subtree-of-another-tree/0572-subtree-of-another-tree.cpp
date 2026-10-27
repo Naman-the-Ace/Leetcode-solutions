@@ -17,7 +17,7 @@ public:
         return isSubtree(root->left, subRoot) || isSubtree(root->right, subRoot);
     }
 
-private:
+
     bool isSameTree(TreeNode* p, TreeNode* q) {
         if (!p && !q) return true;
         if (!p || !q) return false;
