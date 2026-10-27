@@ -1461,6 +1461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 ## Nim Game
 |  |
