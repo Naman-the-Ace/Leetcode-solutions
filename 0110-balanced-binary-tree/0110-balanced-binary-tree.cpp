@@ -11,16 +11,16 @@
  */
 class Solution {
 public:
-pair<bool,int> dfs(TreeNode*node){
-    if(!node) return {true,0};
 
-    auto [lBal,lh] =dfs(node->left);
-    auto [rBal,rh] =dfs(node->right);
+    pair<bool,int> f(TreeNode*node){
+        if(!node) return {true,0};
+        auto[lbal,lh] = f(node->left);
+        auto[rbal,rh] =f(node->right);
 
-    bool isBal =  lBal && rBal && abs(lh-rh)<=1;
-    return {isBal,1+max(lh,rh)}; 
-}
+        bool isBal = lbal&&rbal&&abs(lh-rh)<=1;
+        return {isBal,1+max(lh,rh)};
+    }
     bool isBalanced(TreeNode* root) {
-        return dfs(root).first;
+        return f(root).first;
     }
 };
