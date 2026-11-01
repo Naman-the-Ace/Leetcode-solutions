@@ -1,31 +1,28 @@
 class Solution {
 public:
-vector<vector<int>>dir{{1,0},{0,1},{-1,0},{0,-1}};
 int m,n;
-    bool find(vector<vector<char>>& board,int i,int j,int idx, string word){
-        if(idx==word.length()) return true;
-        if(i<0||j<0||i>=m||j>=n||board[i][j]=='$') return false;
-        if(board[i][j]!=word[idx]) return false;
-        char temp =board[i][j];
-        board[i][j]='$';
-        for( auto &d:dir){
-            int ni=i+d[0];
-            int nj=j+d[1];
-            if(find(board,ni,nj,idx+1,word)){
-                return true;
-            }
-        }
-        board[i][j]=temp;
-        return false;
 
-    }
+bool f(vector<vector<char>>& b, string w,int r, int c,int idx){
+    if(idx==w.size()) return true;
+    if(r<0||c<0||r>=m||c>=n||b[r][c]!=w[idx]) return false;
 
-    bool exist(vector<vector<char>>& board, string word) {
-         m=board.size(),n=board[0].size();
+    char temp =b[r][c];
+    b[r][c]='*';
 
-        for(int i=0;i<m;i++){
+    bool ans1= f(b,w,r+1,c,idx+1);
+    bool ans2= f(b,w,r,c-1,idx+1);
+    bool ans3= f(b,w,r,c+1,idx+1);
+    bool ans4= f(b,w,r-1,c,idx+1);
+    b[r][c]=temp;
+    return ans1||ans2||ans3||ans4;
+}
+    bool exist(vector<vector<char>>& b, string w) {
+        m =b.size(),n=b[0].size();
+        int sz = w.size();
+        // bool flag  = true
+        for(int i =0;i<m;i++){
             for(int j =0;j<n;j++){
-                if(board[i][j]==word[0] && find(board,i,j,0,word)){
+                if(f(b,w,i,j,0)){
                     return true;
                 }
             }
