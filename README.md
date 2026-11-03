@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0705-design-hashset](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0752-open-the-lock) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Tree
 |  |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0733-flood-fill) |
@@ -1026,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0895-maximum-frequency-stack](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 | [1472-design-browser-history](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1603-design-parking-system) |
@@ -1043,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1472-design-browser-history) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
