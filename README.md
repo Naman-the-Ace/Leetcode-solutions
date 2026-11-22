@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
